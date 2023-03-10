@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:detail="clr-namespace:KimetsuNoYaiba.View.Detail;assembly=KimetsuNoYaiba"
+             x:DataType="detail:DetailPageViewModel"
+             BackgroundColor="DarkGray"
+             Title="Detalhe"
+             x:Class="KimetsuNoYaiba.View.Detail.DetailPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="10">
+
+                <Frame
+                    Padding="0"
+                    HasShadow="False">
+
+                    <Image
+                        Source="{Binding Character.Image}"
+                        WidthRequest="350"
+                        HeightRequest="350" />
+
+                </Frame>
+
+                <Frame
+                    HasShadow="False"
+                    Margin="0,0">
+                    <StackLayout>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Nome: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Name}" FontSize="20"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Genero: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Gender}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Idade: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Age}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Altura: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Height}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Estilo de combate: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.CombatStyle}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Peso: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Weight}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Aniversário: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Birthday}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Afiliação: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Affiliation}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Ocupação: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Occupation}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label>
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Raça: " FontAttributes="Bold" />
+                                    <Span Text="{Binding Character.Race}" />
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                    </StackLayout>
+                </Frame>
+
+
+            </StackLayout>
+        </ScrollView>
+
+    </ContentPage.Content>
+</ContentPage>

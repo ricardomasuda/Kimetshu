@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="KimetsuNoYaiba.iOS.app/KimetsuNoYaiba.iOS">
+      <BCSymbolMapName>KimetsuNoYaiba.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>KimetsuNoYaiba.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone14.7-16.2/mtouch-symbols.list</SymbolFile>
+      <DSymName>KimetsuNoYaiba.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.Droid/KimetsuNoYaiba.Droid.csproj": {}
+  },
+  "projects": {
+    "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.Droid/KimetsuNoYaiba.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.Droid/KimetsuNoYaiba.Droid.csproj",
+        "projectName": "KimetsuNoYaiba.Droid.csproj",
+        "projectPath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.Droid/KimetsuNoYaiba.Droid.csproj",
+        "packagesPath": "/Users/ricardomasuda/.nuget/packages/",
+        "outputPath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/ricardomasuda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid12.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid12.0": {
+            "projectReferences": {
+              "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj": {
+                "projectPath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid12.0": {
+          "dependencies": {
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj",
+        "projectName": "KimetsuNoYaiba",
+        "projectPath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj",
+        "packagesPath": "/Users/ricardomasuda/.nuget/packages/",
+        "outputPath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ricardomasuda/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Rg.Plugins.Popup": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/Users/ricardomasuda/Library/Caches/VisualStudio/17.0/MSBuild/24558_3/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

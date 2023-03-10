@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "I7nzh/PCVvsvmaL5f48Fx2xOW6bRAIPdmyBJmVMigO6zTzE5AB8abU+rlteWUrKgZTqJVuawa6lK134+8+StNQ==",
+  "success": true,
+  "projectFilePath": "/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba.csproj",
+  "expectedPackageFiles": [
+    "/Users/ricardomasuda/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/ricardomasuda/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/ricardomasuda/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/Users/ricardomasuda/.nuget/packages/rg.plugins.popup/2.1.0/rg.plugins.popup.2.1.0.nupkg.sha512",
+    "/Users/ricardomasuda/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

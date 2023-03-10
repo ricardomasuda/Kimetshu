@@ -1,0 +1,14 @@
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/bin/Debug/netstandard2.0/KimetsuNoYaiba.deps.json
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/bin/Debug/netstandard2.0/KimetsuNoYaiba.dll
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/bin/Debug/netstandard2.0/KimetsuNoYaiba.pdb
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.csproj.AssemblyReference.cache
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.AssemblyInfoInputs.cache
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.AssemblyInfo.cs
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.csproj.CoreCompileInputs.cache
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.dll
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/KimetsuNoYaiba.pdb
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/View/Detail/DetailPage.xaml.g.cs
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/View/Home/MainPage.xaml.g.cs
+/Users/ricardomasuda/RiderProjects/KimetsuNoYaiba/KimetsuNoYaiba/KimetsuNoYaiba/obj/Debug/netstandard2.0/View/Load/LoadPage.xaml.g.cs
